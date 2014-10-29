@@ -1,0 +1,20 @@
+{
+    "name": "crazycoder/yii2-kindeditor",
+    "description": "kindeditor for yii2 textarea",
+    "author":[
+    	"name": "Wenwei",
+    	"homepage":"http://crazycoder.cc"
+    ],
+    "keywords": ["yii2","kindeditor"],
+    "license": "GNU",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "crazycoder\\kindeditor\\": ""
+        }
+    }
+}
