@@ -4,6 +4,7 @@
     "homepage":"https://github.com/wengeek/yii2-kindeditor",
     "keywords": ["yii2","kindeditor"],
     "license": "GNU",
+    "author": "Wenwei",
     "minimum-stability": "beta",
     "require": {
         "php": ">=5.4",
