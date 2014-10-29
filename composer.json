@@ -1,10 +1,7 @@
 {
     "name": "crazycoder/yii2-kindeditor",
     "description": "kindeditor for yii2 textarea",
-    "author":[
-    	"name": "Wenwei",
-    	"homepage":"http://crazycoder.cc"
-    ],
+    "homepage":"https://github.com/wengeek/yii2-kindeditor",
     "keywords": ["yii2","kindeditor"],
     "license": "GNU",
     "minimum-stability": "beta",
